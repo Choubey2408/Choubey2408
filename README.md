@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Choubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dape1eh3lg8hsad3x1zzsf30kffnxi97f6hqk9qq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choubey2408&label=Profile%20views&color=0e75b6&style=flat" alt="choubey2408" /> </p>
 
