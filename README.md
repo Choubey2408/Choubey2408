@@ -1,3 +1,4 @@
+![logo](https://github.com/Choubey2408/Choubey2408/blob/main/Github%20Banner%202.png)
 <h1 align="center">Hi 👋, I'm Bhavesh Choubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
