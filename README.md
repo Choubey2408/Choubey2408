@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choubey2408&label=Profile%20views&color=0e75b6&style=flat" alt="choubey2408" /> </p>
 
-- My Fully Responsive Portfolio [My Portfolio](https://myportfoliobhaveshchoubey.netlify.app)
-
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/bcchaubey6/overview](https://app.netlify.com/teams/bcchaubey6/overview)
 
 - 📫 How to reach me **choubeybhavesh2408@gmail.com**
